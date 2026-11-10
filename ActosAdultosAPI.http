@@ -1,0 +1,6 @@
+@ActosAdultosAPI_HostAddress = http://localhost:5128
+
+GET {{ActosAdultosAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
